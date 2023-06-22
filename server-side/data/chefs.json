@@ -1,0 +1,62 @@
+[
+    {
+        "chefName": "Gordon Ramsay",
+        "id": 1,
+        "chefImageUrl": "https://www.topinspired.com/wp-content/uploads/2015/07/top-10-ramseay.jpg",
+        "chefDetail": "Gordon Ramsay is a British chef, author, and television personality. He is known for his indulgent and comforting recipes and his relaxed cooking style.",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 50,
+        "likes": 100
+      },
+      
+      {
+          "chefName": "Ina Garten",
+          "id": 2,
+        "chefImageUrl": "https://static01.nyt.com/images/2020/11/18/dining/16Ina3/16Ina3-mediumSquareAt3X-v3.jpg",
+        "chefDetail": "Ina Garten is a British chef, author, and television personality. She is known for her indulgent and comforting recipes and her relaxed cooking style.",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 30,
+        "likes": 50
+      },
+      
+      {
+          "chefName": "Jamie Oliver",
+          "id": 6,
+        "chefImageUrl": "https://123ce.com/wp-content/uploads/2019/07/iStock-544353724-e1562099629995-1024x817.jpg",
+        "chefDetail": "Jamie Oliver is a British chef, author, and television personality. He is known for his indulgent and comforting recipes and his relaxed cooking style.",
+        "yearsOfExperience": 9,
+        "numberOfRecipes": 40,
+        "likes": 75
+      },
+      
+      {
+          "chefName": "Nigella Lawson",
+          "id": 3,
+        "chefImageUrl": "https://as2.ftcdn.net/v2/jpg/02/23/00/37/1000_F_223003725_Q86VLGaSYXI3mvXxkbfHnbSV0oAuHv7X.jpg",
+        "chefDetail": "Nigella Lawson is a British chef, author, and television personality. She is known for her indulgent and comforting recipes and her relaxed cooking style.",
+        "yearsOfExperience": 9,
+        "numberOfRecipes": 25,
+        "likes": 120
+      },
+      
+      {
+          "chefName": "Anthony Bourdain",
+          "id": 4,
+        "chefImageUrl": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1087&q=80",
+        "chefDetail": "Anthony Bourdain is a British chef, author, and television personality. He is known for his indulgent and comforting recipes and his relaxed cooking style.",
+        "yearsOfExperience": 5,
+        "numberOfRecipes": 10,
+        "likes": 110
+      },
+      
+      {
+          "chefName": "Catherine Ann Cora",
+          "id": 5,
+        "chefImageUrl": "https://im.rediff.com/getahead/2016/mar/09womanchef04.jpg",
+        "chefDetail": "Catherine Ann Cora is a British chef, author, and television personality. She is known for her indulgent and comforting recipes and her relaxed cooking style.",
+        "yearsOfExperience": 7,
+        "numberOfRecipes": 15,
+        "likes": 80
+      }
+      
+]

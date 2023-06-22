@@ -1,0 +1,23 @@
+[
+    {
+      "category": "Chicken",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg"
+    },
+    {
+      "category": "Fish",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg"
+    },
+    {
+      "category": "Sea Food",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/wqqvyq1511179730.jpg"
+    },
+    {
+      "category": "Vagetables",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/vptwyt1511450962.jpg"
+    },
+    {
+      "category": "Appetizers",
+      "imageUrl": "https://www.themealdb.com/images/media/meals/1529446137.jpg"
+    }
+  ]
+  
