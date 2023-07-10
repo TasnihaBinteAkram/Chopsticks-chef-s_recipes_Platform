@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import {useNavigation } from 'react-router-dom';
-import RecipeCard from './RecipeCard';
+import RecipeCard from './cards/RecipeCard';
 import LoadingSpinner from './LoadingSpinner';
 
 const ChefsRecipe = ({id}) => {

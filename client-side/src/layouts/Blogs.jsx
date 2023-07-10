@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import Navbar from "../components/Navbar";
+import Navbar from "../components/shared/Navbar";
 import Pdf from "react-to-pdf";
 import ReactToPdf from "react-to-pdf";
 import { useRef } from "react";

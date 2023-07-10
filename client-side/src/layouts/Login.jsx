@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from "react";
-import Navbar from "../components/Navbar";
+import Navbar from "../components/shared/Navbar";
 import { Link, useNavigate, useLocation, Navigate } from "react-router-dom";
 import { AuthContext } from "../Providers/AuthProvider";
 import { FaGithub, FaGoogle } from "react-icons/fa";

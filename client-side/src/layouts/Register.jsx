@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from "react";
-import Navbar from "../components/Navbar";
+import Navbar from "../components/shared/Navbar";
 import { Link } from "react-router-dom";
 import { AuthContext } from "../Providers/AuthProvider";
 import { updateProfile } from "firebase/auth";

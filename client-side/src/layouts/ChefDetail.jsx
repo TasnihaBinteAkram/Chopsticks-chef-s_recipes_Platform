@@ -3,7 +3,7 @@ import {useNavigation,useLoaderData } from 'react-router-dom';
 import ReactDOM from 'react-dom';
 import LazyLoad from 'react-lazyload';
 import { useParams } from "react-router-dom";
-import Navbar from "../components/Navbar";
+import Navbar from "../components/shared/Navbar";
 import banner from "../assets/davide-cantelli-jpkfc5_d-DI-unsplash.jpg";
 import { HiHeart } from "react-icons/hi";
 import ChefsRecipe from "../components/ChefsRecipe";

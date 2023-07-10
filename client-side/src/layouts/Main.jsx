@@ -1,10 +1,7 @@
 import React from 'react';
 import { Outlet } from 'react-router-dom';
-import Navbar from '../components/Navbar';
-import Banner from '../components/Banner';
-import Home from './Home';
 import { ToastContainer } from 'react-toastify';
-import Footer from '../components/Footer';
+import Footer from '../components/shared/Footer';
 
 const Main = () => {
     return (

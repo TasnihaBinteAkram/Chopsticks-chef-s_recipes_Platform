@@ -1,12 +1,14 @@
 import React from 'react';
-import Banner from '../components/Banner';
-import Chefs from '../components/Chefs';
+import Banner from '../components/Home/Banner';
+import Chefs from '../components/Home/Chefs';
 import {useNavigation,useLoaderData} from 'react-router-dom';
 
 import LoadingSpinner from '../components/LoadingSpinner';
-import Categories from '../components/Categories';
-import LatestRecipes from '../components/LatestRecipes';
+import Categories from '../components/Home/Categories';
+import LatestRecipes from '../components/Home/LatestRecipes';
 import useTitle from '../useTitle';
+import Videos from '../components/Home/Videos';
+import Sponsors from '../components/Home/Sponsors';
 
 
 const Home = () => {
@@ -21,7 +23,9 @@ const Home = () => {
            <Banner/> 
            <Categories/>
            <LatestRecipes/>
-           <Chefs data={data}/>       
+           <Videos/>
+           <Chefs data={data}/>    
+           <Sponsors/>   
         </>
     );
 };
